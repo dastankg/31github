@@ -13,7 +13,7 @@ main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    int t, n, c, d, tmp, a, b = 0, ans;
+    ll t, n, c, d, tmp, a, b = 0, ans;
     cin >> t;
     unordered_set<int> s;
     while (t--){
